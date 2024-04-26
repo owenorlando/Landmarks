@@ -139,6 +139,7 @@
 		3FE25A282BDB353B00803A4D /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		3FE25A2A2BDB39FB00803A4D /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
 		3FE25A2C2BDB3AB200803A4D /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
+		3FE25A2E2BDB3ECC00803A4D /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
 		3FE409CF2BDA174300DF00D2 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 		3FE409D12BDA176C00DF00D2 /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
 		3FE409D42BDA18D300DF00D2 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
@@ -367,6 +368,7 @@
 				3FE25A2C2BDB3AB200803A4D /* NotificationController.swift */,
 				3FE409F12BDA27BF00DF00D2 /* Assets.xcassets */,
 				3FE409F32BDA27BF00DF00D2 /* Preview Content */,
+				3FE25A2E2BDB3ECC00803A4D /* PushNotificationPayload.apns */,
 			);
 			path = "WatchLandmark Watch App";
 			sourceTree = "<group>";
