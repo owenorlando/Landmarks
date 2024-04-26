@@ -25,11 +25,9 @@ struct LandmarkDetail: View {
                 CircleImage(image: landmark.image.resizable())
                     .scaledToFit()
 
-
                 Text(landmark.name)
                     .font(.headline)
                     .lineLimit(0)
-
 
                 Toggle(isOn: $modelData.landmarks[landmarkIndex].isFavorite) {
                     Text("Favorite")
@@ -57,7 +55,6 @@ struct LandmarkDetail: View {
             }
             .padding(16)
         }
-        .navigationTitle("Landmarks")
     }
 }
 
